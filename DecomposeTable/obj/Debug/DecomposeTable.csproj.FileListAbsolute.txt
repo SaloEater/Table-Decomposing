@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\DecomposeTable.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\Paint_Vertexex.Form1.resources
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\DecomposeTable.Properties.Resources.resources
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\DecomposeTable.csproj.GenerateResource.Cache
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\DecomposeTable.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\bin\Debug\DecomposeTable.exe.config
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\bin\Debug\DecomposeTable.exe
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\bin\Debug\DecomposeTable.pdb
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\DecomposeTable.exe
+C:\Users\Tom\source\repos\DecomposeTable\DecomposeTable\obj\Debug\DecomposeTable.pdb

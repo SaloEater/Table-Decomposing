@@ -1,0 +1,12 @@
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\bin\Debug\Paint Vertexex.exe.config
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\bin\Debug\Paint Vertexex.exe
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\bin\Debug\Paint Vertexex.pdb
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint Vertexex.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint_Vertexex.Form1.resources
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint_Vertexex.Properties.Resources.resources
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint Vertexex.csproj.GenerateResource.Cache
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint Vertexex.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint Vertexex.exe
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\obj\Debug\Paint Vertexex.pdb
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tom\source\repos\Paint Vertexex\Paint Vertexex\bin\Debug\Newtonsoft.Json.xml
